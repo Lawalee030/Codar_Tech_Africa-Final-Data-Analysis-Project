@@ -39,7 +39,6 @@ This project analyzes international sales performance using a data-driven approa
 📄 **FINAL DATA ANALYTICS PROJECT.pdf**
 
 ## Author
-**Lawal Ololade Ipadeola**
 **BSc, MSc, Freelance Researcher, Data and GIS Analyst**
 
 **Lawal Ololade Ipadeola**
